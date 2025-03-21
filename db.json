@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "studentID": "011812162",
+      "password": "testpassword"
+    },
+    {
+      "id": "5206",
+      "studentID": "123456",
+      "password": "freedom"
+    }
+  ],
+  "rooms": [
+    {
+      "number": 101,
+      "type": "Single",
+      "status": "Available",
+      "id": "8ddc"
+    }
+  ]
+}
