@@ -28,14 +28,5 @@
       "status": "Available",
       "id": "8ddc"
     }
-  ],
-  "bookings": [
-    {
-      "id": "fd72",
-      "studentID": "011812162",
-      "roomNumber": "101",
-      "checkIn": "2025-04-01",
-      "checkOut": "2025-04-10"
-    }
   ]
 }
