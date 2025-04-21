@@ -52,30 +52,6 @@ This project is maintained at:
     Cancel or update bookings
 
 
----
 
-### ✅ STEP 3: Save the File
-
-Just hit `CTRL + S` (or `Cmd + S` on Mac) in VS Code to save it.
-
----
-
-### ✅ STEP 4: Preview It (Optional)
-
-If you want to preview it nicely:
-
-1. Right-click `README.md`
-2. Select `Open Preview` (or press `Ctrl+Shift+V`)
-
----
-
-### ✅ STEP 5: Push to GitHub
-
-Back in your WSL terminal (in your project folder):
-
-```bash
-git add README.md
-git commit -m "Updated README with Sprint 1 and 2 progress"
-git push origin main
 
 
